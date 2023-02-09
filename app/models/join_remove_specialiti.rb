@@ -1,0 +1,2 @@
+class JoinRemoveSpecialiti < ApplicationRecord
+end
